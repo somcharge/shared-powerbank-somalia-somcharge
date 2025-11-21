@@ -66,9 +66,9 @@ We aim to modernize public utilities with IoT systems, payment integrations, and
 ---
 
 ## Links
-- **Website:** https://somcharge.com  
-- **Facebook:** [(add link)](https://www.facebook.com/somcharge)  
-- **Tiktok :** [ (add link)](https://www.tiktok.com/@somcharge)  
+- **Website:** [(somcharge.com)](https://somcharge.com)  
+- **Facebook:** [(facebook.com/somcharge)](https://www.facebook.com/somcharge)  
+- **Tiktok :** [ (tiktok.com/@somcharge)](https://www.tiktok.com/@somcharge)  
 - **Contact:** somcharge@gmail.com  
 
 ---
