@@ -72,6 +72,3 @@ We aim to modernize public utilities with IoT systems, payment integrations, and
 - **Contact:** somcharge@gmail.com  
 
 ---
-
-## 📜 License
-MIT License — for documentation visibility.  
